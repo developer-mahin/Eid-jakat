@@ -80,12 +80,40 @@ section{
 }
 .title {
     text-align: center;
+    padding-bottom: 30px;
 }
-
 .title h1 {
     font-size: 45px;
 }
-
 .title p {
     font-size: 18px;
+}
+.third-portion-description {
+    display: flex;
+    justify-content: space-between;
+}
+.third-portion-description .image {
+    margin-top: 20px;
+}
+.third-portion-description {
+    display: flex;
+    justify-content: space-between;
+    background: #FEF4F5;
+    border-radius: 5px;
+    padding: 30px;
+}
+.third-portion-wrapper {
+    margin-bottom: 50px;
+}
+.content h1 {
+    font-size: 20px;
+}
+.content p {
+    font-size: 18px;
+}
+.content {
+    margin-left: 15px;
+}
+.flex-item-2{
+    width: 34%;
 }
