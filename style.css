@@ -117,18 +117,32 @@ section{
 .fourth-section-content img {
     width: 100%;
 }
-.donet-description {
+.donet-item {
+    border: 1px solid #ddd;
+    border-radius: 12px;
 }
-
-.donet-item {border: 1px solid #ddd;}
-
 .donet-description {
     padding: 20px;
 }
-
 a.donet-button {
     color: #EF233C;
     font-weight: 600;
     text-decoration: none;
     border-bottom: 2px solid #EF233C;
+}
+footer {
+    text-align: center;
+    padding: 20px 0px;
+    background: #0B0D17;
+}
+
+footer h2 {
+    color: #EF223C;
+    font-size: 36px;
+    font-family: 'Lobster', cursive;
+}
+
+footer span {
+    color: #ddd;
+    font-size: 13px;
 }
