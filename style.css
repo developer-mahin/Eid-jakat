@@ -13,7 +13,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .flex-item{
     width: 50%;
-    margin: 0px 2%;
+    margin: 0px 1%;
 }
 section{
     margin-bottom: 70px;
@@ -114,6 +114,21 @@ section{
 .content {
     margin-left: 15px;
 }
-.flex-item-2{
-    width: 34%;
+.fourth-section-content img {
+    width: 100%;
+}
+.donet-description {
+}
+
+.donet-item {border: 1px solid #ddd;}
+
+.donet-description {
+    padding: 20px;
+}
+
+a.donet-button {
+    color: #EF233C;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid #EF233C;
 }
